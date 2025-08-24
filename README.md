@@ -10,7 +10,7 @@
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/gigachad80/Digi-Lawyer
 cd cybercrime_rag
 ```
 
