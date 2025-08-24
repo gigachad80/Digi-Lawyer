@@ -2,7 +2,7 @@
 
 ## Software Information
 - **Software Name:** Digi-Lawyer
-- **Original Author:** gigachad80 
+- **Original Author:** **[Dark Yagami](https://github.com/gigachad80)**
 - **Project Repository:** https://github.com/gigachad80/Digi-Lawyer
 - **License:** Reciprocal Public License (RPL) 1.5
 
