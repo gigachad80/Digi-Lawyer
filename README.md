@@ -95,10 +95,20 @@ As a cybersecurity professional who is also learning cybercrime investigation, I
    ```bash
    streamlit run app.py
    ```
+5. Push to GitHub
+6.  Connect to Streamlit Cloud
+7. Add secrets in Streamlit dashboard:
+
 
 OR 
 
-5. Directley visit on site : https://cyberlex.streamlit.app and upload documents 
+1. Directley visit on site : https://cyberlex.streamlit.app and upload documents 
+2. Upload your legal documents (PDF/MD)
+3. Wait for processing
+4. Ask questions about cybercrime laws
+5. Get comprehensive legal recommendations
+
+
 ---
 
 ### ⚙️ Environment Variables
