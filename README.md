@@ -1,11 +1,4 @@
-### 📚  Requirements & Dependencies
-
-* #### Python
-
-
-### 📥 Installation Guide & USage : 
-
-#### ⚡ Quick Install:🚀 **Project Name: DigiLawyer**  
+🚀 **Project Name: DigiLawyer**  
 ===============
 
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-purple.svg)  
