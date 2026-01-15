@@ -19,7 +19,7 @@ class CybercrimeRAGChatbot:
         """Initialize the RAG chatbot with Google Generative AI (NEW SDK)"""
         # Use .env values with LATEST models as defaults
         self.api_key = api_key or os.getenv('GOOGLE_API_KEY')
-        self.model_name = model_name or os.getenv('GEMINI_MODEL', 'gemini-2.5-flash')  # LATEST MODEL
+        self.model_name = model_name or os.getenv('GEMINI_MODEL', 'gemini-3-flash-preview')  # LATEST MODEL
         
         if not self.api_key:
             raise ValueError("Google API key not found. Set GOOGLE_API_KEY in .env file")
@@ -234,7 +234,7 @@ def main():
         st.error("⚠️ .env file not found!")
         st.info("Create a .env file with the following content:")
         st.code("""GOOGLE_API_KEY=your_google_api_key_here
-GEMINI_MODEL=gemini-2.5-flash
+GEMINI_MODEL=gemini-3-flash-preview
 CHUNK_SIZE=250
 OVERLAP_SIZE=40""")
         st.stop()
