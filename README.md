@@ -152,4 +152,4 @@ Also see: [`LICENSE.md`](https://github.com/gigachad80/Digi-Lawyer/blob/main/LIC
 
 ---
 
-🕒 **Last Updated:** August 24, 2025
+🕒 **Last Updated:** January 15, 2026
